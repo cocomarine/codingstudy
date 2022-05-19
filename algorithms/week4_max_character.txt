@@ -1,0 +1,7 @@
+4) Max Character
+
+Given an integer, return the character that is most commonly used in the string.
+
+Examples: 
+maxChar('abccccd') === "c"
+maxChar('grapes 1233331123') === "3"
